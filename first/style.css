@@ -1,10 +1,32 @@
-.main-bottom {
-  width: 100;
-  height: 15px;
-  color: black;
+header{
+  width: 100%;
+  height: 100px;
+  background-color: gray;
 }
-.main-left {
-  float:left;
-  color: gray;
+body {
+;
+}
+footer {
+  width: 100%;
+  height: 70px;
+  background-color: black;
+}
+.side-right {
+  height: 700px;
+  width: 180px;
+  background-color: #d8d8d8;
+  float:right;
 
+}
+.side-left {
+  height: 700px;
+  width: 180px;
+  background-color: #d8d8d8;
+  float:left;
+
+}
+.white {
+  height: 600px;
+  width: 100%;
+  background-color: white;
 }
